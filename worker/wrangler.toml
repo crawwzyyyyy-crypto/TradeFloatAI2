@@ -1,1 +1,6 @@
+name = "tradefloat-ai-worker"
+main = "src/worker.js"
+compatibility_date = "2026-10-15"
 
+[ai]
+binding = "AI"
